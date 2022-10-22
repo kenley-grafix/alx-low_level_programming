@@ -1,7 +1,8 @@
 #include <stdio.h>
 /*
- * Using puts function
- * return is always 0
+ *main - main function calls other function in the standard library
+ *
+ * return: Always 0
  */
 int main(void)
 {
